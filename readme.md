@@ -1,12 +1,29 @@
 # HTML
 
 ## Aula01 - Criando a primeira página Html
-    [] Posso fazer meu código html em um bloco de notas?
-    [] Vantagens do VS Code: Emment.
-    [] Entendendo a estrutura HTML e as principais tags do head.
+    [x] Posso fazer meu código html em um bloco de notas?
+    [x] Vantagens do VS Code: Emment.
+    [x] Entendendo a estrutura HTML e as principais tags do head.
 
-## Aula02 - Principais tag HTML - Parte 1
-    [] Comentário
-    [] Cabeçalho
-    [] Parágrafo
-    [] Divisor da linha(hr) e quebra de linha (br).
+## Aula02 - Principais tags HTML - Parte 1
+    [x] Comentário
+    [x] Cabeçalho
+    [x] Parágrafo
+    [x] Divisor da linha(hr) e quebra de linha (br).
+
+## Aula03 - Principais tags HTML - Parte 2
+    [x] Imagens
+    [x] Listas
+    [x] Tags de uso genérico(span e div).
+
+## Aula04 - Tags de formatação de texto.
+    [x] Negrito (b, strong)
+    [x] Itálico (i, em)
+    [x] Sublihado (u -> Não indicado)
+    [x] Riscado (s)
+    [x] Destacando um texto (mark)
+    [x] Texto pré-formatado (pre)
+    [x] Codigo (code)
+    [x] Citação (blockquote)
+    [x] Subscrito (sub)
+    [x] Sobrescrito (sup)
