@@ -27,3 +27,13 @@
     [x] Citação (blockquote)
     [x] Subscrito (sub)
     [x] Sobrescrito (sup)
+
+## Aula05 - Elementos Semânticos do HTML 5.
+    [x] header
+    [x] main
+    [x] aside
+    [x] footer
+    [x] section
+    [x] article
+    [x] figure
+    [x] nav
