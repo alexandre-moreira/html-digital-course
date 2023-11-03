@@ -45,3 +45,9 @@
     [] li
     [] a -> link
     [] imagem
+
+
+## Aula07 - Tabelas.
+    [] Cabeçalho e Corpo
+    [] Linhas e Colunas
+    [] Mesclando células
