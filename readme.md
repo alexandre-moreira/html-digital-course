@@ -37,3 +37,11 @@
     [x] article
     [x] figure
     [x] nav
+
+## Aula06 - Barra de navegacao.
+    [] header
+    [] nav
+    [] ul
+    [] li
+    [] a -> link
+    [] imagem
