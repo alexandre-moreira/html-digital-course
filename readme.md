@@ -48,9 +48,9 @@
 
 
 ## Aula07 - Tabelas.
-    [] Cabeçalho e Corpo
-    [] Linhas e Colunas
-    [] Mesclando células
+    [x] Cabeçalho e Corpo
+    [x] Linhas e Colunas
+    [x] Mesclando células
 
 ## Aula08 - Formulario.
     [x]Inputs
