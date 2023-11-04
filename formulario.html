@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+  </head>
+  <body>
+    <header>
+      <h1>Formulario</h1>
+      <hr />
+    </header>
+    <main>
+      <br />
+      <form>
+        <div>
+          <label for="texto">Nome:</label>
+          <input
+            type="text"
+            name="nome"
+            id="texto"
+            placeholder="Infome seu nome..."
+          />
+        </div>
+        <div>
+          <label for="email">E-mail:</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            placeholder="Infome seu e-mail..."
+          />
+        </div>
+        <div>
+          <label for="data">Data de Nascimento:</label>
+          <input type="date" id="data" name="data" />
+        </div>
+        <div>
+            <label for="hora">Data de Nascimento:</label>
+            <input type="time" id="hora" nome="hora" />
+          </div>
+        <div>
+          <label for="senha">Senha:</label>
+          <input
+            type="password"
+            name="senha"
+            id="senha"
+            placeholder="Digite sua senha..."
+          />
+        </div>
+      </form>
+      <br />
+      <textarea name="bio" id="bio" cols="30" rows="10"></textarea>
+      <br />
+      <br />
+      <div>
+        <select name="select" id="select">
+          <option value="" disabled selected>Selecione uma das opções</option>
+          <option value="receita">Receita</option>
+          <option value="despesa">Despesa</option>
+          <option value="transferencia">Transferencia</option>
+        </select>
+      </div>
+
+    </main>
+
+    <hr />
+    <!-- Link -->
+    <a href="./index.html">Voltar</a>
+  </body>
+</html>

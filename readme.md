@@ -39,15 +39,38 @@
     [x] nav
 
 ## Aula06 - Barra de navegacao.
-    [] header
-    [] nav
-    [] ul
-    [] li
-    [] a -> link
-    [] imagem
+    [x] header
+    [x] nav
+    [x] ul
+    [x] li
+    [x] a -> link
+    [x] imagem
 
 
 ## Aula07 - Tabelas.
     [] Cabeçalho e Corpo
     [] Linhas e Colunas
     [] Mesclando células
+
+## Aula08 - Formulario.
+    [x]Inputs
+        [x] name
+        [x] value
+        [x] type
+            [x] text
+            [x] password
+            [x] email
+            [x] date
+            [x] time
+            [x] number
+            [x] file
+            [x] url
+            [x] color
+            [x] range
+            [x] checkbox
+            [x] radio
+            [x] submit
+            [x] reset
+    [x] TextArea
+    [x] Select
+        
